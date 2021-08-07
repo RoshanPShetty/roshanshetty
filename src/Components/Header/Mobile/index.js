@@ -8,13 +8,13 @@ function Mobile({ isOpen, setIsOpen }) {
         <i class="fi-rr-cross-small"></i>
       </div>
       <div className="mobile-options">
-        {/* <div className="mobile-option">
-        <a href="#about">
-          <i class="fi-rr-info option-icon"></i> About
-        </a>
-      </div> */}
         <div className="mobile-option">
-          <a href="#project">
+          <a href="#about">
+            <i class="fi-rr-info option-icon"></i> About
+          </a>
+        </div>
+        <div className="mobile-option">
+          <a href="#projects">
             <i class="fi-rr-edit-alt option-icon"></i>Projects
           </a>
         </div>
