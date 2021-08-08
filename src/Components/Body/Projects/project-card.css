@@ -62,7 +62,7 @@
   margin-right: 4px;
 }
 
-@media screen and (max-width: 720px) {
+@media only screen and (max-width: 720px) {
   .project-photo {
     width: 70%;
   }
