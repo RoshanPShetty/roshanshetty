@@ -19,6 +19,16 @@ export const ProjectData = [
   },
   {
     id: 2,
+    title: "Offensive/Hate Speech Detector",
+    about:
+      "Offensive/Hate Speech Detector performed NLP based tokenization, lemmatization, vectorization, classification, and processed 30,000 tweets to detect offensive or hate speech within a tweet.",
+    tags: ["Python", "GitHub"],
+    // demo: "https://roshanpshetty.github.io/Lensstop/",
+    github: "https://github.com/RoshanPShetty/Offensive-Hate-Speech-Detector",
+    image: require("../../assets/project-images/sentimentanalysis.png").default,
+  },
+  {
+    id: 3,
     title: "Lennstop",
     about:
       "Lensstop is a responsive photography website built showcasing photos that I have taken over the years.",
@@ -27,8 +37,9 @@ export const ProjectData = [
     github: "https://github.com/RoshanPShetty/Lensstop",
     image: require("../../assets/project-images/lensstop.jpg").default,
   },
+
   {
-    id: 3,
+    id: 4,
     title: "UMass Design",
     about:
       "UMassDesign is a Flutter application that is built for the UMass Design Club. It was built in order to increase interactivity for the club and give a platform for everyone to post their work.",
