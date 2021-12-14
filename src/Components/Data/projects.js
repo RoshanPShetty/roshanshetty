@@ -1,5 +1,15 @@
 export const ProjectData = [
   {
+    id: 4,
+    title: "RideShare",
+    about:
+      "Rideshare is a web application that allows people to share rides to common destinations through a sophisticated portal.",
+    tags: ["ReactJS", "NodeJS", "Docker", "MongoDB", "Microservices", "GitHub"],
+    demo: "http://rs.res.tf/",
+    github: "https://github.com/RoshanPShetty/RideShare",
+    image: require("../../assets/project-images/rideshare.jpg").default,
+  },
+  {
     id: 1,
     title: "DishSaver",
     about:
@@ -36,16 +46,5 @@ export const ProjectData = [
     demo: "https://roshanpshetty.github.io/Lensstop/",
     github: "https://github.com/RoshanPShetty/Lensstop",
     image: require("../../assets/project-images/lensstop.jpg").default,
-  },
-
-  {
-    id: 4,
-    title: "UMass Design",
-    about:
-      "UMassDesign is a Flutter application that is built for the UMass Design Club. It was built in order to increase interactivity for the club and give a platform for everyone to post their work.",
-    tags: ["Flutter", "GitHub"],
-    // demo: "https://roshanpshetty.github.io/Lensstop/",
-    github: "https://github.com/RoshanPShetty/UMassDesign",
-    image: require("../../assets/project-images/umassdesign.jpg").default,
   },
 ];
