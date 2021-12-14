@@ -18,6 +18,10 @@ export const SkillsData = [
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>,
       },
+      {
+        name: "VueJS",
+        icon: <i class="devicon-vuejs-plain colored"></i>,
+      },
     ],
   },
   {
@@ -51,6 +55,15 @@ export const SkillsData = [
       {
         name: "MongoDB",
         icon: <i class="devicon-mongodb-plain colored"></i>,
+      },
+    ],
+  },
+  {
+    type: "Infrastructure Management",
+    list: [
+      {
+        name: "Docker",
+        icon: <i class="devicon-docker-plain colored"></i>,
       },
     ],
   },
