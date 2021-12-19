@@ -9,10 +9,11 @@ function About() {
         <div className="about-info">
           Hello There 👋, I am
           <br></br>
-          <span className="info-name">Roshan Praveen Shetty</span>, a rising
-          senior majoring in Computer Science, at the University of
-          Massachusetts, Amherst. I love experimenting with the web and the
-          applications of computer vision in various fields.
+          <span className="info-name">Roshan Praveen Shetty</span>, a Computer
+          Science senior graduating in Fall 2021 and starting Masters in Spring
+          2022 at the University of Massachusetts, Amherst. I love experimenting
+          with the web and the applications of computer vision in various
+          fields.
         </div>
         <div className="about-image">
           <img
