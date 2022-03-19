@@ -1,5 +1,15 @@
 export const ExperienceData = [
   {
+    company: "UMass Amherst School of Public Health & Health Sciences",
+    title: "IT Assistant",
+    dateStart: "Jan. 2022",
+    dateEnd: "Present.",
+    description:
+      "Supporting and maintaining over 400 in-house computer systems and desktops for the School of Public Health through ServiceNow and Tenable.io to detect vulnerabilities. Using KACE Systems for imaging computers and configuring drivers.",
+    companyLogo:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/2505px-UMass_Amherst_Athletics_logo.svg.png",
+  },
+  {
     company: "Tata Consultancy Services",
     title: "Business Analyst Intern",
     dateStart: "Jun. 2021",
@@ -26,16 +36,6 @@ export const ExperienceData = [
     dateEnd: "Jan. 2022",
     description:
       "Offered residential experience supporting students’ learning, personal growth, and academic achievement. Fostering inclusive communities, creating social and educational opportunities, and providing safe and well-maintained residences.",
-    companyLogo:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/2505px-UMass_Amherst_Athletics_logo.svg.png",
-  },
-  {
-    company: "UMass Amherst School of Public Health & Health Sciences",
-    title: "IT Assistant",
-    dateStart: "Jan. 2022",
-    dateEnd: "Present.",
-    description:
-      "Supporting and maintaining over 400 in-house computer systems and desktops for the School of Public Health through ServiceNow and Tenable.io to detect vulnerabilities. Using KACE Systems for imaging computers and configuring drivers.",
     companyLogo:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/2505px-UMass_Amherst_Athletics_logo.svg.png",
   },
