@@ -7,7 +7,7 @@ export const ExperienceData = [
     description:
       "Supporting and maintaining over 400 in-house computer systems and desktops for the School of Public Health through ServiceNow and Tenable.io to detect vulnerabilities. Using KACE Systems for imaging computers and configuring drivers.",
     companyLogo:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/2505px-UMass_Amherst_Athletics_logo.svg.png",
+      "https://www.umass.edu/sphhs/sites/default/files/styles/square_thumbnail/public/UMass_SPHHS_vertical-wordmarks-thumb.jpg?itok=NEQpkfSr",
   },
   {
     company: "Tata Consultancy Services",
@@ -27,7 +27,7 @@ export const ExperienceData = [
     description:
       "Developed shiny application for DACSS faculty to store, access, and edit school data. Visualized UMass Amherst data using R in the form of a schedule as an interactive shiny application published on the school website - dacss.shinyapps.io/Schedule/",
     companyLogo:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/2505px-UMass_Amherst_Athletics_logo.svg.png",
+      "https://www.umass.edu/sbs/sites/default/files/styles/list/public/images/news/thumbs/SBS_Secondary_RGBnews-thumb_6.png?itok=u8W720tD",
   },
   {
     company: "University of Massachusetts Amherst",
