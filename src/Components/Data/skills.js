@@ -55,10 +55,6 @@ export const SkillsData = [
         name: "Firebase",
         icon: <i class="devicon-firebase-plain colored"></i>
       },
-      {
-        name: "Firebase",
-        icon: <i class="devicon-firebase-plain colored"></i>
-      },
     ],
   },
   {
