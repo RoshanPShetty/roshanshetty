@@ -23,6 +23,10 @@ export const SkillsData = [
         icon: <i class="devicon-javascript-plain colored"></i>,
       },
       {
+        name: "Angular",
+        icon: <i class="devicon-angularjs-plain colored"></i>,
+      },
+      {
         name: "VueJS",
         icon: <i class="devicon-vuejs-plain colored"></i>,
       },
@@ -46,6 +50,14 @@ export const SkillsData = [
       {
         name: "Java",
         icon: <i class="devicon-java-plain colored"></i>,
+      },
+      {
+        name: "Firebase",
+        icon: <i class="devicon-firebase-plain colored"></i>
+      },
+      {
+        name: "Firebase",
+        icon: <i class="devicon-firebase-plain colored"></i>
       },
     ],
   },
