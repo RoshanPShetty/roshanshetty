@@ -31,7 +31,7 @@ export const ExperienceData = [
   },
   {
     company: "UMass Amherst School of Public Health & Health Sciences",
-    title: "IT Assistantt",
+    title: "IT Assistant",
     dateStart: "Jan. 2022",
     dateEnd: "Present.",
     description:
