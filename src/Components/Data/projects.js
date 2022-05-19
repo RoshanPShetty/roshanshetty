@@ -1,5 +1,13 @@
 export const ProjectData = [
   {
+    id: 5,
+    title: "Boggle",
+    about: "",
+    tags: ["ReactJS", "NodeJS", "Docker", "MongoDB", "Microservices", "GitHub"],
+    github: "https://github.com/scalable-web-systems/Boggle",
+    image: require("../../assets/project-images/boggle.jpeg").default,
+  },
+  {
     id: 4,
     title: "RideShare",
     about:
