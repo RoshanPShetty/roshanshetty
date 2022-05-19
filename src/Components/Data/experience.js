@@ -1,5 +1,15 @@
 export const ExperienceData = [
   {
+    company: "GRUBBRR Inc.",
+    title: "Full Stack Developer Intern",
+    dateStart: "Jun. 2022",
+    dateEnd: "Present. ",
+    description:
+      "Incoming Intern at GRUBBRR working with the Fullstack Development Team to develop software for the Samsung products.",
+    companyLogo:
+      "https://media-exp1.licdn.com/dms/image/C560BAQGKT8eu4FDVuQ/company-logo_200_200/0/1624570564117?e=2147483647&v=beta&t=_K4py6m7h7u022ZVrl47VpKO0gvRgNx50xqSjiaeK4Y",
+  },
+  {
     company: "UMass Amherst School of Public Health & Health Sciences",
     title: "IT Assistant",
     dateStart: "Jan. 2022",
