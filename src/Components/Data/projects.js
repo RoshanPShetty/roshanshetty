@@ -2,9 +2,10 @@ export const ProjectData = [
   {
     id: 5,
     title: "Boggle",
-    about: "",
+    about: "A fun game created using ReactJS, Node, Express, MongoDB, and Typescript as a project for students of CS497S to develop as homework modules.",
     tags: ["ReactJS", "NodeJS", "Docker", "MongoDB", "Microservices", "GitHub"],
-    github: "https://github.com/scalable-web-systems/Boggle",
+    github: "https://github.com/RoshanPShetty/boggle",
+    demo: "https://roshanshettyboggle.netlify.app",
     image: require("../../assets/project-images/boggle.jpeg").default,
   },
   {
