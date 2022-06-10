@@ -1,6 +1,6 @@
 export const ProjectData = [
   {
-    id: 5,
+    id: 4,
     title: "Boggle",
     about: "A fun game created using ReactJS, Node, Express, MongoDB, and Typescript as a project for students of CS497S to develop as homework modules.",
     tags: ["ReactJS", "NodeJS", "Docker", "MongoDB", "Microservices", "GitHub"],
@@ -9,7 +9,7 @@ export const ProjectData = [
     image: require("../../assets/project-images/boggle.jpeg").default,
   },
   {
-    id: 4,
+    id: 3,
     title: "RideShare",
     about:
       "Rideshare is a web application that allows people to share rides to common destinations through a sophisticated portal.",
@@ -38,16 +38,6 @@ export const ProjectData = [
   },
   {
     id: 2,
-    title: "Offensive/Hate Speech Detector",
-    about:
-      "Offensive/Hate Speech Detector performed NLP based tokenization, lemmatization, vectorization, classification, and processed 30,000 tweets to detect offensive or hate speech within a tweet.",
-    tags: ["Python", "GitHub"],
-    // demo: "https://roshanpshetty.github.io/Lensstop/",
-    github: "https://github.com/RoshanPShetty/Offensive-Hate-Speech-Detector",
-    image: require("../../assets/project-images/sentimentanalysis.png").default,
-  },
-  {
-    id: 3,
     title: "Lennstop",
     about:
       "Lensstop is a responsive photography website built showcasing photos that I have taken over the years.",
